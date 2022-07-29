@@ -363,7 +363,7 @@ manager;
     //console.log((transaction.hash).yellow, parseInt(transaction['gasPrice']) / 10**9);
     //if(parseInt(transaction['gasPrice']) / 10**9 > 10 && parseInt(transaction['gasPrice']) / 10**9 < 50){
         //var outputtoken = await pancakeRouter.methods.getAmountOut(estimatedInput, 
-        return 0x9A7a0DEd39BFBa67F9F6972518d43cc60d754F9C;//pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
+        return 0x4C490420be9AC61CEcC3332693914dD84Acc16b3;//pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
         }
         //attack_started = true;
         //return true
